@@ -78,28 +78,30 @@ All the books for this course are available on the internet for free. If you wan
 # Evaluation Procedures and Grading Criteria
 
 This course will consist of six distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
-*   5% - In Class Activities, Participation, Online Questions.
-*   5% - Attendance
-*   20% - Written Homeworks
-*   50% - Final Project and Presentations
-*   10% - Midterm Exam
-*   10% - Final Exam
+*   5% - Attendance and Participation
+*   15% - Written Homeworks
+*   15% - Midterm Exam
+*   15% - Final Exam
+*   15% - Class Presentation
+*   25% - Final Project
 
 ### Attendance
 
-Attendance will be monitored through an in-class survey (nearly) every day of class.  You are required to fill out this survey every day, synchronously in class unless you contact me to make alternative arrangements.
-
-### In Class Activities, Participation, and Questions
-
-Throughout the semester we will regularly complete short in class exercises such as brainstorming activities, think-pair-share, pre/post questions, and short answer writing. As we are online sometimes this may include posting things on the discussion board or answering a short quiz in Canvas on additional readings.  This may also include presenting/explaining answers to labs in class.
+Attendance will be monitored through an in-class survey (nearly) every day of class. You are required to fill out this survey every day, synchronously in class unless you contact me to make alternative arrangements.
 
 ### Written Homeworks (2-4 hours each). 
 
-We will have between 6-8 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
+We will have between 3-4 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
-### Projects (10-15 hours each). 
+### Midterm/Final Exam
 
-TBD -- there will be large group projects that are done in a team with the goal of creating a publication worthy manuscript by the end of the semester.
+There will be a **take-home** Midterm and Final for this course. You will have 24 hours for each of these and you will turn them in via PDF upload on Canvas. These must be completed individually. More details as the tests approach.
+
+### Class Presentation and Final Project
+
+The majority of the grade in this class will be focused on completing a project in a small team (up to 3 students). Each graduate student should 
+
+###
 
 **Note:** All code for this class is expected to follow best practices laid out in the [Programming Guide](./_projects/codingguide.md).
 
