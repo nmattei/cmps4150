@@ -79,11 +79,15 @@ All the books for this course are available on the internet for free. If you wan
 
 This course will consist of six distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *   5% - Attendance and Participation
-*   15% - Written Homeworks
-*   15% - Midterm Exam
-*   15% - Final Exam
-*   15% - Class Presentation
-*   25% - Final Project
+*   20% - Written Homeworks
+*   10% - Midterm Exam
+*   10% - Final Exam
+*   55% - Final Project
+  * 5% Project Proposal
+  * 10% Project Checkup/Pitch
+  * 15% Project Presentation
+  * 25% Project Writeup
+
 
 ### Attendance
 
@@ -91,15 +95,19 @@ Attendance will be monitored through an in-class survey (nearly) every day of cl
 
 ### Written Homeworks (2-4 hours each). 
 
-We will have between 3-4 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
+We will have ~4 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
 ### Midterm/Final Exam
 
-There will be a **take-home** Midterm and Final for this course. You will have 24 hours for each of these and you will turn them in via PDF upload on Canvas. These must be completed individually. More details as the tests approach.
+There will be a **take-home** Midterm and Final for this course. You will have 24 hours or more for each of these and you will turn them in via PDF upload on Canvas. These must be completed individually. More details as the tests approach.
 
 ### Class Presentation and Final Project
 
-The majority of the grade in this class will be focused on completing a project in a small team (up to 3 students). Each graduate student should 
+The majority of the grade in this class will be focused on completing a project in a small team (up to 3 students). The ideal is to have each group contain one graduate student and up to two undergrads. We will post project ideas in the **Slack Workspace** for the class and students can propose projects and form teams there. The grades for the Project are broken down with rubrics on the [assignments page](./assignments.md). In general a project will contain the following sub-grades.
+1. **5% Project Proposal** - The project proposal will outline the goals of the project, include a concrete question or goal, and contain 5-8 reference papers that place the project in the academic research literature.
+2. **10% Project Checkup/Pitch** - Near mid-term your team will make a 10-15 minute presentation where you will describe the problem you are attacking and outline one relevant research paper that you ar building on. This talk should be in depth enough that all students understand the problem and the context of the academic literature you are working within.
+3. **15% Project Presentation** - Towards the end of the semester your team will make a 15-20 minute presentation of your complete project. This should be an in-depth talk that clearly outlines the problem, places it in the literature, and describes your novel contribution and results. 
+4. **25% Project Writeup** - Research formatted paper in LaTeX. Should be written with the goal of actually being published. Should contain at a minimum introduction; related work; clear problem statement and formal description; novel algorithm, model, or theory; evaluation; and conclusions. 
 
 ###
 
@@ -111,7 +119,7 @@ This will be a written, close book, in class (online) exam.  You are allowed one
 
 ### Additional Work For Graduate Students
 
-TBD
+Graduate students are expected to lead project teams or work individually for this course. Hence their additional work is that of being lead researcher on a team of undergraduates.
 
 ## Policies Related to Turnig In Work
 
