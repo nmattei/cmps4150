@@ -7,7 +7,8 @@ published: true
 
 Quick Links for additional resources and course materials:
 * All recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
-* All pre-class slides and comics (with announcements) can be found in [this Gdrive folder in Powerpoint and PDF](https://drive.google.com/drive/folders/1Avj42GSClNQn0XIdnTMOzDNBL1thn04N?usp=sharing)!
+* All slides for class including all lectures, announcements, and comics [this Gdrive folder in Powerpoint.](https://drive.google.com/drive/folders/1ERq3woEdXPtE141ZSsH5esnp9qiO2JMw?usp=sharing)
+* All code examples and notebooks used for this course [are available in this Gdrive folder.](https://drive.google.com/drive/folders/1FdWIH55oviaakefnSc-whxZStcrTO9GL?usp=sharing)
 * For a detailed list of assignments, learning time, and grading rubrics, pleasee go to the [Assignments Page.](./assignments.md)
 
 

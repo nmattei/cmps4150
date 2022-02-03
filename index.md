@@ -24,10 +24,12 @@ published: true
 ### Instructor and TA Information
 **Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
 * **Office:** Stanley Thomas 402B
-* **Office Hours:** TBD and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
+* **Office Hours:** Tuesday 14:00 - 15:00 and Wednesday 11:00 - 12:00 and by appointment. See Links in [Tulane Canvas](https://tulane.instructure.com/).
 
-**Teaching Assistants:** TBD
+**Teaching Assistants:** Dr. Benjamin Abramowitz, <babramow@tulane.edu>
+* **Office:** N/A (Remote)
+* **Office Hours:** Monday 17:00 - 18:00 and Thursday 13:45 - 15:00. See Links in [Tulane Canvas](https://tulane.instructure.com/).
 
-All course staff have drop in office hours listed above and **are available by appointment whenever you need!**.  Please reach out to us directly to setup extra time if you need more support during the semester.
+All course staff have drop in office hours listed above and **are available by appointment whenever you need!**. You can also reach out to us on **Slack** anytime! Please reach out to us directly to setup extra time if you need more support during the semester.
 
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
