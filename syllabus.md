@@ -82,11 +82,11 @@ This course will consist of six distinct grading areas.  Note that all point val
 *   20% - Written Homeworks
 *   10% - Midterm Exam
 *   10% - Final Exam
-*   55% - Final Project
-  * 5% Project Proposal
-  * 10% Project Checkup/Pitch
-  * 15% Project Presentation
-  * 25% Project Writeup
+*   55% - Final Project Consisting of:
+    * 5% Project Proposal
+    * 10% Project Checkup/Pitch
+    * 15% Project Presentation
+    * 25% Project Writeup
 
 
 ### Attendance
