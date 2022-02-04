@@ -80,13 +80,12 @@ All the books for this course are available on the internet for free. If you wan
 This course will consist of six distinct grading areas.  Note that all point values described below for individual assignments are subject to change, the area percentages will remain the same.
 *   5% - Attendance and Participation
 *   20% - Written Homeworks
-*   10% - Midterm Exam
-*   10% - Final Exam
+*   20% - Midterm and Final Exam (Take Home)
 *   55% - Final Project Consisting of:
-    * 5% Project Proposal
-    * 10% Project Checkup/Pitch
-    * 15% Project Presentation
-    * 25% Project Writeup
+    * 10% Project Proposal
+    * 25% Project Checkup/Pitch
+    * 25% Project Presentation
+    * 40% Project Writeup
 
 
 ### Attendance
@@ -108,8 +107,6 @@ The majority of the grade in this class will be focused on completing a project 
 2. **10% Project Checkup/Pitch** - Near mid-term your team will make a 10-15 minute presentation where you will describe the problem you are attacking and outline one relevant research paper that you ar building on. This talk should be in depth enough that all students understand the problem and the context of the academic literature you are working within.
 3. **15% Project Presentation** - Towards the end of the semester your team will make a 15-20 minute presentation of your complete project. This should be an in-depth talk that clearly outlines the problem, places it in the literature, and describes your novel contribution and results. 
 4. **25% Project Writeup** - Research formatted paper in LaTeX. Should be written with the goal of actually being published. Should contain at a minimum introduction; related work; clear problem statement and formal description; novel algorithm, model, or theory; evaluation; and conclusions. 
-
-###
 
 **Note:** All code for this class is expected to follow best practices laid out in the [Programming Guide](./_projects/codingguide.md).
 
