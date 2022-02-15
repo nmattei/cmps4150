@@ -32,12 +32,11 @@ Additionally you should look into some tips and guides for writing a good resear
 
 For the first part of the project you should write out a formal project proposal in the Overleaf document that we have started for you. It is important to make sure that all writing occurs in this document so that the course staff can offer advice and even help co-write with you! The project proposal will outline the goals of the project, include a concrete question or goal, and contain 5-8 reference papers that place the project in the academic research literature. Ideally one of the references should be engaged with critically, that is, the proposal should state a formal model or goal of one of the papers and offer a concrete question about what should the plan for investigation will be. The proposal will be graded on the following aspects.
 
-** Scoring Rubric **
-
-*(10 Points) Professionalism:* The document is well organized, contains at least an Introduction, Related Work, and Project Plan sections. The writing is of appropriate quality.
-*(5 Points) References:* There are 5-8 papers in the references and the papers are both relevant to the investigation proposed and properly cited and contextualized in the document.
-*(5 Points) Introduction:* There is an introduction section that places the project goals within the larger context of MultiAgent systems and motivates the problem in a general way.
-*(10 Points) Project Plan:* There is a coherent project plan that is placed in the context of one (or more) references. The plan includes a discussion of the proposed format of the results (e.g., theoretical proofs, code, a formal model, etc.) and the goal is scoped appropriately, i.e., contains a concrete question of what questions are hoped to be answered and how.
+**Scoring Rubric**
+* *(10 Points) Professionalism:* The document is well organized, contains at least an Introduction, Related Work, and Project Plan sections. The writing is of appropriate quality.
+* *(5 Points) References:* There are 5-8 papers in the references and the papers are both relevant to the investigation proposed and properly cited and contextualized in the document.
+* *(5 Points) Introduction:* There is an introduction section that places the project goals within the larger context of MultiAgent systems and motivates the problem in a general way.
+* *(10 Points) Project Plan:* There is a coherent project plan that is placed in the context of one (or more) references. The plan includes a discussion of the proposed format of the results (e.g., theoretical proofs, code, a formal model, etc.) and the goal is scoped appropriately, i.e., contains a concrete question of what questions are hoped to be answered and how.
 
 
 ## Homeworks
