@@ -9,9 +9,20 @@ published: true
 **Note:** This is a upper division / graduate computer science course, *it is hard*, there will be a lot of work.  
 
 * You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).
-* All written assignments in this course you must turn in a Latex PDF document that is typeset and professional. Getting used to writing is one of the must fundamental skills for graduate school and practice makes perfect.
+* All written assignments in this course you must turn in a Latex PDF document that is typeset and professional. If you have quesitons about Latex please see the [Template Document](https://www.overleaf.com/read/ccwvxmcmcjtn) we have prepared for hte course. Getting used to writing is one of the must fundamental skills for graduate school and practice makes perfect.
 * For all coding assignments in this course please have a read over [Aire's Handy Coding Guide](./_projects/codingguide.md). For all code you hand in for this course we expect you to follow these best practices -- if you don't, you'll lose *Professionalism* points.  We're not being mean, just trying to get you ready for coding with other people.
 * You must join the course **Slack Workspace** and check it regularly as that will be the main communications mechanism and where we expect to see evidence of you and your team collaborating.
+
+## Homeworks
+
+Homeworks will generally be posted about a week before they are due. Answers to homeworks are expected to be typed in Latex. If you want to draw figures and take photos that is acceptable. Answers to homework questions are expected to be written in a professional way that is clear.
+
+| Homework | Due Date | Link |
+|:-------:|:--------:|:----:|
+| 1 | 2/15/2022 | [Homework 1 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
+| 2 | 3/8/2022 | [Homework 2 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
+| 3 | 4/12/2022 | [Homework 3 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
+| 4 | 4/26/2022 | [Homework 4 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 
 ## Major Project and Presentations
 
@@ -62,7 +73,8 @@ The written component will consist of submitting an updated version of your proj
 **Scoring Rubric**
 
 * *(10 Points) Professionalism:* The document is well organized, contains at least an Introduction, Related Work, and Project Plan sections. The writing is of appropriate quality. The oral presentation was well timed, contained a reasonable number of slides (15-20) that were neat and well organized.
-* *(10 Points) Problem Setting and Justification:* There is an introduction section that places the project goals within the larger context of MultiAgent systems and motivates the problem in a general way. The research question is clear and significance was established.
+* *(10 Points) Problem Justification:* There is an introduction section that places the project goals within the larger context of MultiAgent systems and motivates the problem in a general way. You should clearly answer the questions: why is this problem/area interesting or important? What is it about this problem that makes it non-trivial to solve?
+* *(10 Points) Problem Setting/Model:* There is a clear statement of the problem as a model/algorithm/task. This should be formal in nature, e.g., if it is an algorithm clearly state the inputs and outputs. You should clearly state why this model is relevant to the problem and how it differs from existing results.
 * *(10 Points) References:* There at least 10 papers in the references and the papers are both relevant to the investigation proposed and properly cited and contextualized in the document and were discussed in the oral presentation.
 * *(15 Points) Deep Dive:* The deep dive in the oral presentation was a closely related paper that was addressed in significant depth and was also clear.
 * *(10 Points) Initial Results:* The initial results detailed (code, model, algorithm) was reasonable, clearly explained, and shows a clear path towards a goal.
@@ -70,26 +82,11 @@ The written component will consist of submitting an updated version of your proj
 
 ### Final Project Presentation (75 Points)
 
+TBD
 
 ### Final Project Writeup (120 Points)
 
-
-
-## Homeworks
-
 TBD
-
-## Student Presentations
-
-TBD
-
-
-## Study Sheets for Tests
-
-Upload a PDF of your one page, front and back, hand written, study sheet.  This will be graded based on coverage for the first part of the semester. **This is due before the exam begins!**
-
-* **(5 Points) Professionalism.** Study sheet is well laid out, clear, and organized.
-* **(5 Points) Coverage.** Study sheet has good coverage of the material covered in class and in assignments.
 
 ### Default Marking Guidelines
 
