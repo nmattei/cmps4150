@@ -29,6 +29,7 @@ Homeworks will generally be posted about a week before they are due. Answers to 
 The majority of the grade in this class will be focused on completing a project in a small team (up to 3 students). The ideal is to have each group contain one graduate student and up to two undergrads. We will post project ideas in the **Slack Workspace** for the class.
 
 Writing a research paper is an undertaking that should be approached systematically. The first thing you should do is read one or more papers, as suggested by the course staff or found on your own via [Google Scholar](https://scholar.google.com/) or other resources, that are directly related to your topic. Some example papers that have come from this course or courses similar to it include the following.
+
 * [Flexible Representative Democracy: An Introduction with Binary Issues.](https://arxiv.org/abs/1811.02921) Ben Abramowitz and Nicholas Mattei.
 * [An Empirical Study of Voting Rules and Manipulation with Large Datasets.](http://www.cs.engr.uky.edu/~goldsmit/papers/analysis-comsoc.pdf) Nicholas Mattei, James Forshee, and Judy Goldsmith.
 * [PEERNOMINATION: Relaxing Exactness for Increased Accuracy in Peer Selection.](https://arxiv.org/abs/2004.14939) Nicholas Mattei, Paolo Turrini, and Stanislav Zhydkov.
@@ -36,6 +37,7 @@ Writing a research paper is an undertaking that should be approached systematica
 * [Diverse Weighted Bipartite b-Matching.](https://arxiv.org/abs/1702.07134) Faez Ahmed, John P Dickerson, and Mark Fuge.
 
 Additionally you should look into some tips and guides for writing a good research paper. Some that Prof. Mattei recommends are below.
+
 * [Hal Varian on "How to Build an Economic Model in Your Spare Time."](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
 * [The Science of Scientific Writing by George D. Gopen and Judith A. Swan](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf)
 * [Ten Simple Rules for Mathematical Writing by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
@@ -92,4 +94,4 @@ TBD
 
 | Full    |    Good |  Okay |   Lacking   |   Poor  | No Marks |
 | : ---- :| : ---- :| : ---- :| : ---- :| : ---- :| : ---- : |
-| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate. | 
+| You completely and fully met the criteria described. | You have met most of the criteria but lack sufficient depth and/or missed one or more minor pieces. | You have missed components of the required criteria and/or they are incorrect / inappropriate or lack depth. | You have missed major components of the required criteria and/or may of them are incorrect. | Little to no evidence of work and major missing components. | Missing or completely inadequate.|
