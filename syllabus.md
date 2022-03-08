@@ -5,12 +5,14 @@ subtitle: CMPS 4150/6150 Multi-Agent Systems
 published: true
 ---
 # MultiAgent Systems
+
 * CMPS-4150/6150: Introduction to Artificial Intelligence
 * Tulane University
 * 3 Credit Hours
 * Prerequisite Courses: CMPS 2200 Introduction to Algorithms
 
 ## Time and Location
+
 * **Lectures:** Tuesdays and Thursdays 
 * **Room:** Stanley Thomas Hall Room 302 ([Building 25](https://campusservices.tulane.edu/resources/map))
 * **Online:** All Lectures will also be available online, see [Tulane Canvas](https://tulane.instructure.com/) for details.
@@ -20,15 +22,21 @@ published: true
 * **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Instructor and TA Information
-**Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
-* **Office:** Stanley Thomas 402B
-* **Office Hours:** TBD and by and by appointment, See Link in [Tulane Canvas](https://tulane.instructure.com/)
 
-**Teaching Assistants:** TBD
+**Instructor:** Dr. Nicholas Mattei, <nsmattei@tulane.edu>
+
+* **Office:** Stanley Thomas 402B
+* **Office Hours:** Tuesday 14:00 - 15:00 and Wednesday 11:00 - 12:00 and by appointment. See Links in [Tulane Canvas](https://tulane.instructure.com/).
+
+**Teaching Assistants:** Dr. Benjamin Abramowitz, <babramow@tulane.edu>
+
+* **Office:** N/A (Remote)
+* **Office Hours:** Monday 17:00 - 18:00 and Thursday 13:45 - 15:00. See Links in [Tulane Canvas](https://tulane.instructure.com/).
 
 ## Course Communication Policy
 
 There are a variety of methods you can use to get in touch with us, and we expect to be able to get in touch with you.  A few general policies.
+
 * When emailing, please email all TA's and Prof. Mattei.  We will respond within 24 hours, except on weekends.  Turn around may be faster, but do not rely on it.
 * We expect the same from you: that you will check your email/Canvas every 24 hours, except on weekends.  All major announcements will be distributed via the Announcements function of Canvas.
 * All course staff have drop in office hours listed above and **are available by appointment whenever you need!**.  Please reach out to us directly to setup extra time if you need more support during the semester.
@@ -53,6 +61,7 @@ This course has two main goals. The first one is to give a broad overview of the
 ## Course Learning Outcomes
 
 At the conclusion of this course students will be able to:
+
 * Define and intelligent agent and be able to identify the different environmental factors at play in the design of an agent.
 * Be able to define and analyze a rational agent using techniques from cooperative and non-cooperative game theory.
 * Implement group decision making and aggregation methods via voting and judgement aggregation.
@@ -92,7 +101,7 @@ This course will consist of six distinct grading areas.  Note that all point val
 
 Attendance will be monitored through an in-class survey (nearly) every day of class. You are required to fill out this survey every day, synchronously in class unless you contact me to make alternative arrangements.
 
-### Written Homeworks (2-4 hours each). 
+### Written Homeworks (2-4 hours each)
 
 We will have ~4 written homeworks throughout the semester.  You are expected to write your answers individually.  You are encouraged to discuss homework problems in small groups, **as long as you give credit to whomever you discussed the topics with at the top of your homework**.  You are strongly discouraged from seeking solutions online; if you do, **you must cite any sources explicitly you use for each problem**.  Copying of homework from other students or from other sources is strictly prohibited. Obtaining a solution from another source without citing the source is plagiarism.
 
@@ -103,16 +112,13 @@ There will be a **take-home** Midterm and Final for this course. You will have 2
 ### Class Presentation and Final Project
 
 The majority of the grade in this class will be focused on completing a project in a small team (up to 3 students). The ideal is to have each group contain one graduate student and up to two undergrads. We will post project ideas in the **Slack Workspace** for the class and students can propose projects and form teams there. The grades for the Project are broken down with rubrics on the [assignments page](./assignments.md). In general a project will contain the following sub-grades.
-1. **5% Project Proposal** - The project proposal will outline the goals of the project, include a concrete question or goal, and contain 5-8 reference papers that place the project in the academic research literature.
-2. **10% Project Checkup/Pitch** - Near mid-term your team will make a 10-15 minute presentation where you will describe the problem you are attacking and outline one relevant research paper that you ar building on. This talk should be in depth enough that all students understand the problem and the context of the academic literature you are working within.
-3. **15% Project Presentation** - Towards the end of the semester your team will make a 15-20 minute presentation of your complete project. This should be an in-depth talk that clearly outlines the problem, places it in the literature, and describes your novel contribution and results. 
-4. **25% Project Writeup** - Research formatted paper in LaTeX. Should be written with the goal of actually being published. Should contain at a minimum introduction; related work; clear problem statement and formal description; novel algorithm, model, or theory; evaluation; and conclusions. 
+
+1. **Project Proposal** - The project proposal will outline the goals of the project, include a concrete question or goal, and contain 5-8 reference papers that place the project in the academic research literature.
+2. **Oral Project Pitch** - Near mid-term your team will make a 15-20 minute presentation where you will describe the problem you are attacking and outline one relevant research paper that you ar building on. This talk should be in depth enough that all students understand the problem and the context of the academic literature you are working within.
+3. **Final Project Presentation** - Towards the end of the semester your team will make a 15-20 minute presentation of your complete project. This should be an in-depth talk that clearly outlines the problem, places it in the literature, and describes your novel contribution and results.
+4. **Final Project Writeup** - Research formatted paper in LaTeX. Should be written with the goal of actually being published. Should contain at a minimum introduction; related work; clear problem statement and formal description; novel algorithm, model, or theory; evaluation; and conclusions.
 
 **Note:** All code for this class is expected to follow best practices laid out in the [Programming Guide](./_projects/codingguide.md).
-
-### Midterm and Final Exam 
-
-This will be a written, close book, in class (online) exam.  You are allowed one **hand-written** cheat sheet, front and back, 8.5x11 inch paper.  You will be required to turn in this cheat sheet **before** the actual exam and it will be graded for completeness. The final is cumulative.  This semester both exams will take place online, however you must be in the Zoom call to turn in and receive credit for taking the exam unless prior arrangements have been made. **You must earn at least a 60% average between the two exams to pass the course.**
 
 ### Additional Work For Graduate Students
 
@@ -124,13 +130,13 @@ Graduate students are expected to lead project teams or work individually for th
 
 * All work will be due **at class time on the day assigned**.  This means turning things in during or after class is considered one day late.  This will be consistent throughout the semester.
 
-### Late Work Policy. 
+### Late Work Policy
 
 All work must be turned in on time unless explicit consent for outstanding circumstances is given beforehand (or in the case of illness, with a documented absence after).  Any late work will be penalized at **10% of the total assignment value per day up to 5 days late, after which it will not be accepted**.  The exception to this rule is if work solutions are presented in class (as is the case with labs and quizzes).  **After the work is presented in class, no late work will be accepted.**
 
-### Late Tokens. 
+### Late Tokens
 
-At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **programming projects and homeworks**.  Each token is worth one additional day, to use at your discretion.  These tokens will be automatically applied and you do not need to let us know.  These tokens have no cash value.  If you are still holding tokens at the end of the semester they will automatically be converted to 1% bonus points on your **projects** grade.
+At the start of this semester you each are holding **3 late tokens** which can be redeemed at any time for **homeworks only**.  Each token is worth one additional day, to use at your discretion.  These tokens will be automatically applied and you do not need to let us know.  These tokens have no cash value.  If you are still holding tokens at the end of the semester they will automatically be converted to 1% bonus points on your **homeworks** grade.
 
 ## Final Grade Policy.
 
