@@ -21,7 +21,7 @@ Homeworks will generally be posted about a week before they are due. Answers to 
 |:-------:|:--------:|:----:|
 | 1 | 2/15/2022 | [Homework 1 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 | 2 | 3/8/2022 | [Homework 2 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
-| 3 | 4/12/2022 | [Homework 3 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
+| 3 | 4/14/2022 | [Homework 3 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 | 4 | 4/26/2022 | [Homework 4 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 
 ## Major Project and Presentations
