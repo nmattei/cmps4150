@@ -22,7 +22,7 @@ Homeworks will generally be posted about a week before they are due. Answers to 
 | 1 | 2/15/2022 | [Homework 1 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 | 2 | 3/8/2022 | [Homework 2 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 | 3 | 4/14/2022 | [Homework 3 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
-| 4 | 4/26/2022 | [Homework 4 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
+| 4 | 5/3/2022 | [Optional Homework 4 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
 
 ## Major Project and Presentations
 
@@ -36,7 +36,7 @@ Writing a research paper is an undertaking that should be approached systematica
 * [Balancing Lexicographic Fairness and a Utilitarian Objective with Application to Kidney Exchange.](https://arxiv.org/abs/1702.08286) Duncan McElfresh and John P Dickerson.
 * [Diverse Weighted Bipartite b-Matching.](https://arxiv.org/abs/1702.07134) Faez Ahmed, John P Dickerson, and Mark Fuge.
 
-Additionally you should look into some tips and guides for writing a good research paper. Some that Prof. Mattei recommends are below.
+Additionally you should look into some tips and guides for writing a good research paper. Some that Prof. Mattei recommends are below. Also have a look at the lecture slides on [How to Write a Paper!](https://drive.google.com/drive/folders/1ERq3woEdXPtE141ZSsH5esnp9qiO2JMw?usp=sharing)
 
 * [Hal Varian on "How to Build an Economic Model in Your Spare Time."](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
 * [The Science of Scientific Writing by George D. Gopen and Judith A. Swan](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf)
@@ -70,7 +70,7 @@ The oral component will consist of a 18 - 20 minute presentation where you will:
 
 The written component will consist of submitting an updated version of your project proposal that has taken into account the feedback from the first round as well as updated results and progress sections. There should be additional background and related work that has come from working on the oral presentation.
 
-**Submission:** You should combine the PDF of your slides and your paper into one document and submit it through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
+**Submission:** You should **combine the PDF of your slides and your paper into one document** and submit it through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
 
 **Scoring Rubric**
 
@@ -84,7 +84,28 @@ The written component will consist of submitting an updated version of your proj
 
 ### Final Project Presentation (75 Points)
 
-TBD
+For the third part of the project you will both give a revised and expanded in class presentation. You should approach this much more like a research report (even if you haven't finished all the work), [recall Prof. Mattei's example 20 min presentation from class](https://drive.google.com/drive/folders/1ERq3woEdXPtE141ZSsH5esnp9qiO2JMw?usp=sharing).
+
+You should start from the slides and pitch you used in the Oral Pitch. Make sure that you update the slides with any feedback that was given for that part of the project. Nothing makes Dr. Mattei more sad then when he asked you to fix something and you didn't fix it. You will want to remove most of the deep dive for this part and instead replace that part with an clear and concise explanation of your (initial) results. If not everything is done then you need to clearly state what will be done for the final writeup (maybe even a placeholder graph) along with the plan to complete that work by the final writeup deadline.
+
+The oral component will consist of a 18 - 20 minute presentation where you will:
+
+1. Detail the area of multi-agent systems in which you are working, providing enough background so that we can understand your research direction.
+2. A clear statement of your research question including an explanation of both why it is significant and why it is novel.
+3. A clear statement of the formal model/framework of your research: you should clearly and exactly specify the question, method of evaluation, formal model of the problem, and the metrics of evaluation you will use.
+4. Presentation of results this should include datasets, graphs/charts, proofs, and other concrete results that have arisen from your research. Reminder, do not put code on a slide, that makes Dr. Mattei angry.
+5. Conclusion and a concrete set of questions or experiments that are planned to be included in the final document. This should be fairly detailed and provide a framework for your final writing.
+
+**Submission:** You should **submit the PDF of your slides** through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
+
+**Scoring Rubric**
+
+* *(10 Points) Professionalism:* The slides/presentation is well-organized, and well-written. The slides contains an Introduction, Related Work, Formal Model, Initial Results, and Conclusion sections. The oral presentation was well-timed, and contained a reasonable number of slides (15-20) that were neat and well-organized.
+* *(15 Points) Introduction / Problem Justification:* There is an Introduction that places the project goals within the larger context of MultiAgent Systems and motivates the problem in a general way. You should clearly answer the questions: Why is this problem interesting or important? What is it about this problem that makes it non-trivial to solve? Once your project is complete, how might one use the information and insight your project provides?
+* *(15 Points) Problem Setting/ Formal Model:* There is a clear statement of the problem as a model/algorithm/task that needs to be developed or completed. This should be formal in nature, e.g., if it is an algorithm clearly state the inputs and outputs. You should clearly state why this model is relevant to the problem and how it differs from existing results. For each decision you make in constructing your model, you must explain or justify that decision. For example, if preferences are drawn from a distribution how did you choose what distribution to use?
+* *(15 Points) Results:* You have clearly and exactly specify the question, method of evaluation, formal model of the problem, and the metrics of evaluation you will use. You have provided evidence, via proof, graph, or example, that you are on track to answer your initial research question. E.g., A graph showing initial comparative results between two candidate algorithms.
+* *(15 Points) Conclusion / Project Finishing Plan:* There is a coherent path to completion of the project. The plan should include a clear statement of the expected results and how they will be obtained. Example graphs/output/results should be given to help explain how this will fit in the final paper. You may present multiple avenues that you are considering, but must explain the differences and value of each one.
+* *(5 Points) References:* References were well used and cited on the slides where necessary for the presentation.
 
 ### Final Project Writeup (120 Points)
 
