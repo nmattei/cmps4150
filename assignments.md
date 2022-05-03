@@ -96,7 +96,7 @@ The oral component will consist of a 18 - 20 minute presentation where you will:
 4. Presentation of results this should include datasets, graphs/charts, proofs, and other concrete results that have arisen from your research. Reminder, do not put code on a slide, that makes Dr. Mattei angry.
 5. Conclusion and a concrete set of questions or experiments that are planned to be included in the final document. This should be fairly detailed and provide a framework for your final writing.
 
-**Submission:** You should **submit the PDF of your slides** through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
+**Submission:** You should **submit the PDF of your slides** through Canvas. Only one group member should submit the document but all group members full names must be on the title slide.
 
 **Scoring Rubric**
 
@@ -109,7 +109,90 @@ The oral component will consist of a 18 - 20 minute presentation where you will:
 
 ### Final Project Writeup (120 Points)
 
-TBD
+For the fourth and final portion of the project you will submit a final, written paper. You should make sure that you have corrected any and all suggestions made by Prof. Mattei from earlier versions of the paper. Additionally you should make sure you follow all the suggestions laid out in the [How to Write a Paper!](https://drive.google.com/drive/folders/1ERq3woEdXPtE141ZSsH5esnp9qiO2JMw?usp=sharing).
+
+In terms of formatting please ensure your paper uses the package `natbib` and cites are done properly with [\citet](https://www.overleaf.com/learn/latex/Natbib_citation_styles) and using the style `plainnat`. Your paper should also be one-half spaced, have line numbers, and the other settings below which you really should just copy and paste into your pre-amble.
+
+```
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+
+%%%%%PACKAGES%%%%%
+%   Packages give you more functionality, like importing modules in Python. Be careful, sometimes packages conflict with each other
+
+\usepackage{xcolor} %for colors, like coloring links blue
+\usepackage{hyperref} % for using hyperlinks
+\hypersetup{
+  colorlinks=true,
+  citecolor=violet,
+  linkcolor=red,
+  urlcolor=blue
+}
+
+\usepackage{balance} % for balancing columns on the final page if you have multiple columns
+
+\usepackage[sort,numbers]{natbib}
+
+\usepackage{amsmath} % for the equation and align environments
+\usepackage{amsthm} %for theorem and proof environments
+
+\usepackage{tabularx} %for formatting tables
+\usepackage{graphicx} %for including graphics
+
+%% Make the layout a little better.
+\usepackage[letterpaper,top=1in, bottom=1in, left=1.5in, right=1.5in]{geometry}
+
+%% Line numbers
+\usepackage{lineno}
+\linenumbers
+%% Set Space
+\usepackage{setspace}
+\onehalfspacing
+\frenchspacing
+\sloppy
+\raggedbottom
+%% Make enums not so spaced out.
+\usepackage{enumitem}% Tight spacing
+\setlist[enumerate,itemize,description]{itemsep=0.5pt,topsep=0.5pt,partopsep=0.5pt}
+
+....[Paper goes here...]
+
+\bibliographystyle{plainnat}
+\bibliography{main}
+```
+
+The paper will be graded both on the quality of the writing, the interestingness of the research, and your ability to follow the process and form of research. Your work does not have to be ground-breaking or novel to earn high marks; likewise an interesting result that is not placed properly in the research and explained clearly will not get a good grade. Both good ideas and good form are part of the scientific process and both will carry equal weight in this assignment. I would rather see less-interesting but well investigated questions over papers I cannot read.
+
+The paper itself should contain the following sections (please come up with a creative one for the work), in this order, as described in the [How to Write a Paper!](https://drive.google.com/drive/folders/1ERq3woEdXPtE141ZSsH5esnp9qiO2JMw?usp=sharing) lecture.
+
+1. Abstract
+2. Introduction
+3. Preliminaries & Problem Formulation
+4. Related Work
+5. Our Method
+6. Theoretical Results
+7. Empirical Results
+8. Discussion and Conclusions
+9. References
+10. Appendices
+
+Note that you should have something to say for both Section 6 and Section 7 -- if you do not please discuss this with us before turning in the paper. You should be able to say one or two formal things about your algorithm or methods both empirically and theoretically.
+
+**Submission:** You should **submit the PDF of your paper** through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
+
+**Scoring Rubric**
+
+* *(10 Points) Professionalism:* The paper is well-organized, and well-written, contains the proper sections and proper formatting. The written English is in the active, present voice, the arguments are well organized, and the document is well presented as described.
+* *(25 Points) Peer Evaluation:* Before the deadline please send a message via Slack, Canvas, or Email to Prof. Mattei. You should clearly do 2 things: (1) explain the parts of the project that you took responsibility for and (2) assign 100 percent of effort to both yourself and the rest of your team.
+* *(15 Points) Introduction / Problem Justification:* There is an Introduction that places the project goals within the larger context of MultiAgent Systems and motivates the problem in a general way. You should clearly answer the questions: Why is this problem interesting or important? What is it about this problem that makes it non-trivial to solve? Once your project is complete, how might one use the information and insight your project provides?
+* *(15 Points) Related Work:* There at least 10 papers in the references and the papers are both relevant to the investigation proposed and properly cited and contextualized in the document. References are used where necessary to back up statements and assertions.
+* *(15 Points) Problem Setting/ Formal Model:* There is a clear statement of the problem as a model/algorithm/task that needs to be developed or completed. This should be formal in nature, e.g., if it is an algorithm clearly state the inputs and outputs. You should clearly state why this model is relevant to the problem and how it differs from existing results. For each decision you make in constructing your model, you must explain or justify that decision. For example, if preferences are drawn from a distribution how did you choose what distribution to use?
+* *(15 Points) Methodology / Reproducibility:* Your algorithm / experiment / model etc. and the process you will use to evaluate it is clearly written, is technical in nature, and clearly describes the methods you will use to the point that someone else would be able to reproduce the methods you have used. You have clearly and exactly specify the question, method of evaluation, formal model of the problem, and the metrics of evaluation you will use.
+* *(15 Points) Results:*  You have provided evidence, via proof, graph, or example, that you have completed a comprehensive investigation of your proposed work. The presented results should be coherent and tell a story about what you did and what you found.
+* *(10 Points) Conclusion / Discussion:* There is a coherent discussion of the results of the project, the practical implications of those results, and a clear line of next questions you or someone else could work on. Do not oversell but rather clearly articulate both the accomplishments and limitations of your work.
+
+
 
 ### Default Marking Guidelines
 
