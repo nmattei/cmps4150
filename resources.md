@@ -10,7 +10,9 @@ If you need help please check the [discussion board on Canvas!](https://tulane.i
 
 The following are a set of books that are used for this class. They are all available  
 
-
+Links to Summer Schools and other resources:
+  * [Summer School on Computational Social Choice (Amsterdam)](https://events.illc.uva.nl/comsoc-school-2023/)
+  * [Summer School on Algorithmic Game Theory](https://www.cs.cityu.edu.hk/~gtsc/)
 
 Links to other versions of this course and additional reading.  I have borrowed liberally from many of these versions of the course and have provided these sources to help students.
   * [John P. Dickerson's Course at UMD](https://marketdesign.github.io/)
