@@ -21,3 +21,4 @@ Links to other versions of this course and additional reading.  I have borrowed 
   * [Hau Chan's Corse at Univ. Nebraska 2021](https://sites.google.com/view/unlcscecgtspring21/home)
   * [Hau Chan's Corse at Univ. Nebraska 2022](https://sites.google.com/view/unlcscecgtspring22/home)
   * [Nisarg Shah's Course at Univ. Toronto](https://www.cs.toronto.edu/~nisarg/teaching/2556s21/)
+  * [Felix Brandt's Course at TU Munich (with Video!)](https://www.youtube.com/playlist?list=PLOfTMPqb4h4YpejIw7acMsdUnBm51a-FD)
