@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring 2021 Schedule
+title: Spring 2026 Schedule
 published: true
 ---
 **While I make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
