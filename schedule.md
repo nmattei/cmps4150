@@ -9,7 +9,7 @@ Quick Links for additional resources and course materials:
 * All recordings of every lecture is available in [Canvas](https://tulane.instructure.com/)
 * All slides for class including all lectures, announcements, and comics [this Gdrive folder in Powerpoint.](https://drive.google.com/drive/folders/1UuC3I73yU3ny2dManYk3naF5ZNytNvnq?usp=sharing)
 * For a detailed list of assignments, learning time, and grading rubrics, please go to the [Assignments Page.](./assignments.md)
-
+* For the [2022 Schedule go here](https://docs.google.com/document/d/1OgJJwnjnYvovVyT5vjacz9-ApbWRXC2v-SGVdFn7Bno/edit?tab=t.0).
 
 ## Detailed Schedule
 
