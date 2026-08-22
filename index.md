@@ -7,12 +7,14 @@ published: true
 <p style="text-align:center;"><img src="{{ 'img/rockem.jpg' | relative_url }}" /></p>
 
 ## Tulane Course Information
-  - Fall 2026 CMPS 4150 / 6150 at Tulane University - 3 CR
-  - CMPS Graduate Attributes: Core Research / Interdisciplinary Research
+- Fall 2026 CMPS 4150 / 6150 at Tulane University - 3 CR
+- CMPS Graduate Attributes: Core Research / Interdisciplinary Research
+- **Prerequisite Courses:** CMPS 2200 Introduction to Algorithms. Note: CMPS 3140 Introduction to Artificial Intelligence and/or CMPS 3240 Introduction to Machine Learning strongly encouraged for undergraduate students.
+
+## Lecture Details
 - **Lecture Times:** Tuesday and Thursday - 15:30 - 16:45
 - **Room:** Gibson Hall 126, GI [(Building 1)](https://admission.tulane.edu/map)
 - **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details. However, you must come in person for full course credit.. Zoom is there for serious illness and other unavoidable circumstances only.
-- **Prerequisite Courses:** CMPS 2200 Introduction to Algorithms. Note: CMPS 3140 Introduction to Artificial Intelligence and/or CMPS 3240 Introduction to Machine Learning strongly encouraged for undergraduate students.
 
 ## Website Information
 - **Webpage:** <https://nmattei.github.io/cmps4150/>
