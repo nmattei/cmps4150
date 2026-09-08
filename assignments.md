@@ -11,18 +11,11 @@ published: true
 * You will sometimes have multiple assignments at a time and be responsible for managing the deadlines.  Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).
 * All written assignments in this course you must turn in a Latex PDF document that is typeset and professional. If you have quesitons about Latex please see the [Template Document](https://www.overleaf.com/read/ccwvxmcmcjtn) we have prepared for hte course. Getting used to writing is one of the must fundamental skills for graduate school and practice makes perfect.
 * For all coding assignments in this course please have a read over [Aire's Handy Coding Guide](./_projects/codingguide.md). For all code you hand in for this course we expect you to follow these best practices -- if you don't, you'll lose *Professionalism* points.  We're not being mean, just trying to get you ready for coding with other people.
-* You must join the course **Slack Workspace** and check it regularly as that will be the main communications mechanism and where we expect to see evidence of you and your team collaborating.
+* You must join the course **Discord** and check it regularly as that will be the main communications mechanism and where we expect to see evidence of you and your team collaborating.
 
 ## Homeworks
 
-Homeworks will generally be posted about a week before they are due. Answers to homeworks are expected to be typed in Latex. If you want to draw figures and take photos that is acceptable. Answers to homework questions are expected to be written in a professional way that is clear.
-
-| Homework | Due Date | Link |
-|:-------:|:--------:|:----:|
-| 1 | 2/15/2022 | [Homework 1 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
-| 2 | 3/8/2022 | [Homework 2 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
-| 3 | 4/14/2022 | [Homework 3 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
-| 4 | 5/3/2022 | [Optional Homework 4 PDF](https://drive.google.com/drive/u/1/folders/1IPYfg8xKqwwMJMBSB3TMIICOB9mzCz9m)
+Homeworks will generally be posted about a week before they are due. Answers to homeworks are expected to be typed in Latex. If you want to draw figures and take photos that is acceptable. Answers to homework questions are expected to be written in a professional way that is clear. See the schedule and Canvas for posted homeworks.
 
 ## Major Project and Presentations
 
