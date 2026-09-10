@@ -38,9 +38,11 @@ Additionally you should look into some tips and guides for writing a good resear
 
 ### Project Proposal (30 Points)
 
-For the first part of the project you should write out a formal project proposal in the Overleaf document that we have started for you. It is important to make sure that all writing occurs in this document so that the course staff can offer advice and even help co-write with you! The project proposal will outline the goals of the project, include a concrete question or goal, and contain 5-8 reference papers that place the project in the academic research literature. Ideally one of the references should be engaged with critically, that is, the proposal should state a formal model or goal of one of the papers and offer a concrete question about what should the plan for investigation will be. The proposal will be graded on the following aspects.
+For the first part of the project you should write out a formal project proposal in the Overleaf document that we have started for you. Prof. Mattei must be the project owner as discussed in your discord channel and you must start from the [Project Template](https://www.overleaf.com/read/ccwvxmcmcjtn#6c3693).
 
-**Submission:** You will submit a PDF of your paper through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
+It is important to make sure that all writing occurs in this document so that the course staff can offer advice and even help co-write with you! The project proposal will outline the goals of the project, include a concrete question or goal, and contain 5-8 reference papers that place the project in the academic research literature. Ideally one of the references should be engaged with critically, that is, the proposal should state a formal model or goal of one of the papers and offer a concrete question about what should the plan for investigation will be. The proposal will be graded on the following aspects.
+
+**Submission:** You will submit a PDF of your paper through Canvas and make a 5 min presentation in class (where you may use up to 3 slides, time limit will be strictly enforced). Only one group member should submit the document but all group members full names must be on the title page of the writeup. The document should be **no longer** than 4 pages of written text (not including references).
 
 **Scoring Rubric**
 
