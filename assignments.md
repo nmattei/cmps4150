@@ -55,7 +55,7 @@ It is important to make sure that all writing occurs in this document so that th
 
 For the second part of the project you will both give and in class presentation and provide an update to your written report of the project. You should approach the pitch as teaching a mini-class in which you will be teaching your fellow students the basics of your research project: what the question is, why it is important, and what your plan of attack is. You should be prepared to discuss the relevant context of your research in detail including a deep dive in at least one "most relevant" paper to your project.
 
-The oral component will consist of a 18 - 20 minute presentation where you will:
+The oral component will consist of a 15 -- 18(max) minute presentation where you will:
 
 1. Detail the area of multi-agent systems in which you are working, providing enough background so that we can understand your research direction.
 2. A clear statement of your research question including an explanation of both why it is significant and why it is novel.
