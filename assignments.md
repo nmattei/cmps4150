@@ -51,7 +51,7 @@ It is important to make sure that all writing occurs in this document so that th
 * *(5 Points) Introduction:* There is an introduction section that places the project goals within the larger context of MultiAgent systems and motivates the problem in a general way.
 * *(10 Points) Project Plan:* There is a coherent project plan that is placed in the context of one (or more) references. The plan includes a discussion of the proposed format of the results (e.g., theoretical proofs, code, a formal model, etc.) and the goal is scoped appropriately, i.e., contains a concrete question of what questions are hoped to be answered and how.
 
-### Project Oral Pitch (75 Points)
+### Project Update + Background Review (75 Points)
 
 For the second part of the project you will both give and in class presentation and provide an update to your written report of the project. You should approach the pitch as teaching a mini-class in which you will be teaching your fellow students the basics of your research project: what the question is, why it is important, and what your plan of attack is. You should be prepared to discuss the relevant context of your research in detail including a deep dive in at least one "most relevant" paper to your project.
 
