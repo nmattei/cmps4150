@@ -13,4 +13,4 @@ Quick Links for additional resources and course materials:
 
 ## Detailed Schedule
 
-<iframe style="width: 100%; height: 5000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vQkg6iwUPVA6NvS7VV-yhkhHcx5AzQnUQzAd0p8e4A_Rb8mwNoP-dB23ZDv3d_KkLwaIznl68skm83M/pub?embedded=true"></iframe>
+<iframe style="width: 110%; height: 5000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vQkg6iwUPVA6NvS7VV-yhkhHcx5AzQnUQzAd0p8e4A_Rb8mwNoP-dB23ZDv3d_KkLwaIznl68skm83M/pub?embedded=true"></iframe>
