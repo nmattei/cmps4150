@@ -174,7 +174,7 @@ The paper itself should contain the following sections (please come up with a cr
 
 Note that you should have something to say for both Section 6 and Section 7 -- if you do not please discuss this with us before turning in the paper. You should be able to say one or two formal things about your algorithm or methods both empirically and theoretically.
 
-**Submission:** You should **submit the PDF of your paper** through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup.
+**Submission:** You should **submit the PDF of your paper** through Canvas. Only one group member should submit the document but all group members full names must be on the title page of the writeup. Ideally your paper will be between **18-25 pages** -- papers that are (unnecessarily) longer or (significantly) shorter will be penalized for professionalism. I want good writing, not volume.
 
 **Scoring Rubric**
 
